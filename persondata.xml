@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<persondata>
+ <person name="tom">
+       <address>2344 States Drive, MA 01213, USA</address>
+       <phonenumber>333-222-2222</phonenumber>
+ <salary>$3000</salary>
+<pension>$500</pension>
+</person>
+ <person name="mat">
+       <address>2345 Gates Drive, PA 11213, USA</address>
+       <phonenumber>444-222-2222</phonenumber>
+ <salary>$3500</salary>
+<pension>$700</pension>
+</person>
+<person name="max">
+      <address>2344 California Drive, MA 12121, USA</address>
+      <phonenumber>444-111-2222</phonenumber>
+<salary>$8000</salary>
+<pension>$500</pension>
+</person>
+</persondata>
